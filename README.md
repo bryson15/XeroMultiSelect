@@ -8,7 +8,7 @@
 - **Select Multiple Rows**: Click and drag to select multiple entries.
 - **Edit Simultaneously**: Apply changes to all selected rows at once, perfect for batch updates.
 
-# Install
+## Install
 
 1. Download the ZIP from the [GitHub Repository](https://github.com/bryson15/XeroMultiSelect/)
 2. Unpack the ZIP file
