@@ -13,5 +13,5 @@
 1. Download the ZIP from the [GitHub Repository](https://github.com/bryson15/XeroMultiSelect/)
 2. Unpack the ZIP file
 3. Navigate to `chrome://extensions/` in Chrome
-4. Enable "Developer mode" in the top-right corner
-5. Click "Load unpacked" and select the unpacked ZIP file
+4. Enable `Developer mode` in the top-right corner
+5. Click `Load unpacked` and select the unpacked ZIP file
